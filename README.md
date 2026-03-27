@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🌒 月食
 
-<!--
-**eclipse-tech888/eclipse-tech888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎈 About Me
+・理系大学生(になる人)
+・Web開発を勉強中
 
-Here are some ideas to get you started:
+## 🔩 Skills
+・HTML/CSS
+・JavaScript(勉強中)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+・Homepage
+https://eclipse-tech888.github.io/
+
+## 📊 Stats
+https://github-readme-stats.vercel.app/api?username=eclipse-tech888
+
+## 🔗 Links
+・Twitter(X)
+https://x.com/Xcl1ps3_tech
