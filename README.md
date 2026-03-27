@@ -13,7 +13,7 @@
 https://eclipse-tech888.github.io/
 
 ## 📊 Stats
-![GitHub](https://github-readme-stats.vercel.app/api?username=eclipse-tech888)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eclipse-tech888)
 
 ## 🔗 Links
 ・Twitter(X)
