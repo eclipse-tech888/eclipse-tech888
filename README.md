@@ -12,9 +12,6 @@
 ・Homepage
 https://eclipse-tech888.github.io/
 
-## 📊 Stats
-https://github-readme-stats.vercel.app/api?username=eclipse-tech888
-
 ## 🔗 Links
 ・Twitter(X)
 https://x.com/Xcl1ps3_tech
